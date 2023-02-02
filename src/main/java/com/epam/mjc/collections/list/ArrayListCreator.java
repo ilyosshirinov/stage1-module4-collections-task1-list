@@ -13,16 +13,16 @@ public class ArrayListCreator {
         return list;
     }
 
-    public static void main(String[] args) {
-        ArrayListCreator arrayListCreator = new ArrayListCreator();
-        List<String> list = new ArrayList<>();
-        list.add("The");
-        list.add("ArrayList");
-        list.add("class");
-        list.add("has");
-        list.add("many");
-        list.add("useful");
-        list.add("methods");
-        System.out.println(arrayListCreator.createArrayList(list));
-    }
+//    public static void main(String[] args) {
+//        ArrayListCreator arrayListCreator = new ArrayListCreator();
+//        List<String> list = new ArrayList<>();
+//        list.add("The");
+//        list.add("ArrayList");
+//        list.add("class");
+//        list.add("has");
+//        list.add("many");
+//        list.add("useful");
+//        list.add("methods");
+//        System.out.println(arrayListCreator.createArrayList(list));
+//    }
 }

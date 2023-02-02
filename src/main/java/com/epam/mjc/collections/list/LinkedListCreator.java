@@ -21,14 +21,14 @@ public class LinkedListCreator {
         return list;
     }
 
-    public static void main(String[] args) {
-        LinkedListCreator linkedListCreator = new LinkedListCreator();
-        List<Integer> list = new ArrayList<>();
-        list.add(2);
-        list.add(14);
-        list.add(12);
-        list.add(26);
-        list.add(24);
-        System.out.println(linkedListCreator.createLinkedList(list));
-    }
+//    public static void main(String[] args) {
+//        LinkedListCreator linkedListCreator = new LinkedListCreator();
+//        List<Integer> list = new ArrayList<>();
+//        list.add(2);
+//        list.add(14);
+//        list.add(12);
+//        list.add(26);
+//        list.add(24);
+//        System.out.println(linkedListCreator.createLinkedList(list));
+//    }
 }
